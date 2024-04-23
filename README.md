@@ -9,4 +9,4 @@ Components
 - MS18 servomotor
 - 9V battery & connector
 
-Controlled using BLEJoyStick iOS application
+Controlled via Bluetooth using BLEJoyStick iOS application
