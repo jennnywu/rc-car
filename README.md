@@ -8,5 +8,8 @@ Components
 - DC motors
 - MS18 servomotor
 - 9V battery & connector
+- Jumper wires
+- Chassis & axle
+- Wheels
 
 Controlled via Bluetooth using BLEJoyStick iOS application
