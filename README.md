@@ -12,4 +12,4 @@
 - Chassis & axle
 - Wheels
 
-Controlled via Bluetooth using BLEJoyStick iOS application
+Controlled using Bluetooth via BLEJoyStick iOS application.
